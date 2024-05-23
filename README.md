@@ -1,3 +1,15 @@
+Projeto SQL de Relatórios de Produção - Olist
+
+
+
+Este projeto tem como objetivo criar um sistema de gerenciamento de dados de produção utilizando SQL Server. O sistema abrange a importação de dados de diferentes tabelas de carga, a criação de tabelas de produção com estrutura fixa e a geração de relatórios através de VIEWS.
+
+
+
+Estrutura do Projeto
+
+O projeto envolve as seguintes tabelas de carga e produção:
+
 Tabelas de Carga:
 
 CUSTOMERS
