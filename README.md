@@ -84,18 +84,7 @@ ON O.CUSTOMER_ID = C.CUSTOMER_ID
 SELECT * FROM VW_PEDIDOS_POR_CLIENTE
 
 
-Estrutura de Arquivos
-create_load_tables.sql: Script para criar as tabelas de carga.
 
-create_production_tables.sql: Script para criar as tabelas de produção.
-
-create_views.sql: Script para criar as VIEWS de relatórios.
-
-load_data.sql: Exemplos de scripts para carregar dados nas tabelas de carga.
-
-process_data.sql: Exemplos de scripts para processar e mover dados para as tabelas de produção.
-
-query_reports.sql: Exemplos de consultas para gerar relatórios a partir das VIEWS.
 
 Contribuição
 Contribuições são bem-vindas! Se você quiser contribuir com melhorias ou correções, sinta-se à vontade para fazer um fork do repositório e enviar um pull request.
